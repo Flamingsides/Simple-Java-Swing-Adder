@@ -25,7 +25,7 @@ import javax.sound.sampled.AudioInputStream;
 import javax.sound.sampled.AudioSystem;
 import javax.sound.sampled.Clip;
 
-public class Question4
+public class Main
 {
 	
 	private static final int F_WIDTH = 500;
